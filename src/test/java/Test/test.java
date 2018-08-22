@@ -14,7 +14,6 @@ public class test {
 	driver.manage().window().maximize();
 
 	driver.get("http://www.facebook.com");
-	System.out.println("hello");
 
 	driver.quit();
 
