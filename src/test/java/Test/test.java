@@ -14,6 +14,7 @@ public class test {
 	driver.manage().window().maximize();
 
 	driver.get("http://www.facebook.com");
+	System.out.println("doing the branch commit");
 
 	driver.quit();
 
